@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>androidVirtualMachine</SelectedDevice>
     <DefaultDevice>androidVirtualMachine</DefaultDevice>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
