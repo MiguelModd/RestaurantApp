@@ -1,0 +1,9 @@
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\bin\Debug\DbRestaurante.dacpac
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\bin\Debug\DbDatabase.dll
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\bin\Debug\DbDatabase.pdb
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\obj\Debug\Model.xml
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\obj\Debug\refactor.xml
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\obj\Debug\postdeploy.sql
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\obj\Debug\predeploy.sql
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\obj\Debug\DbDatabase.dll
+C:\Users\Migue Jose\Source\Repos\RestaurantApp\Restaurant\RestaurantApp\DbDatabase\obj\Debug\DbDatabase.pdb
